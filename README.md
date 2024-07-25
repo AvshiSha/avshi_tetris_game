@@ -4,7 +4,7 @@ A brief description of what this project does and who it's for
 
 Name of the creator: Avshalom Sharabani
 
--I created the colors bonus, and the box score bonus.
+- I created the colors bonus, and the box score bonus.
 
 - For the colors bonus I added two ways of play the game, one without colors, and one with colors.
 - If the chosen game is with computer, first the user choose if he wants to play with colors, and after that the user choose difficulty ("Novice", "Good or "Best").
