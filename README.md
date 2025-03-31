@@ -1,14 +1,14 @@
-# avshi_tetris_game
+# Avshi Tetris Game
 
-A brief description of what this project does and who it's for
+Welcome to a fresh twist on the classic Tetris challenge! Created by Avshalom Sharabani, this project spices up your gameplay with fun bonuses and vibrant visuals.
 
-Name of the creator: Avshalom Sharabani
+- **Colors Bonus:** Choose your adventure! Play in classic black and white, or switch on dazzling colors to light up your game.
+- **Box Score Bonus:** Keep track of your progress with a cool score display that adds an extra edge to every game.
+- **Human vs. Computer Mode:** Go head-to-head with the computer—watch as your moves light up the left board, while the AI battles on the right.
+- **Custom Difficulty:** Tailor your challenge with three difficulty levels: "Novice," "Good," or "Best."
+- **Smart Design:** The game’s structure is built on a solid object-oriented foundation, where the `Player` class is the hero for both human and computer competitors.
+- **Well-Documented Code:** Detailed notes on every library and function make it easy for you to dive into the code and tweak the game to your liking.
 
-- I created the colors bonus, and the box score bonus.
+  
 
-- For the colors bonus I added two ways of play the game, one without colors, and one with colors.
-- If the chosen game is with computer, first the user choose if he wants to play with colors, and after that the user choose difficulty ("Novice", "Good or "Best").
-- In Human vs Computer game, the human player plays in left board, and the computer plays in the right board.
-- player class inherited to human class and computer class in our code.
-- I added notes on every libraries I used, and the way I oparate every data members and functions members.
-- Thank you for reading my code and hopefully you will enjoy my game!.
+Thanks for checking out my code! I hope you enjoy playing and exploring the fun world of Avshi Tetris Game. Let the blocks fall and the fun begin!
