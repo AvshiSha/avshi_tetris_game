@@ -1,6 +1,6 @@
 # Avshi Tetris Game
 
-Welcome to a fresh twist on the classic Tetris challenge! Created by Avshalom Sharabani, this project spices up your gameplay with fun bonuses and vibrant visuals.
+Welcome to a fresh twist on the classic Tetris challenge! Created by me, this project spices up your gameplay with fun bonuses and vibrant visuals.
 
 - **Colors Bonus:** Choose your adventure! Play in classic black and white, or switch on dazzling colors to light up your game.
 - **Box Score Bonus:** Keep track of your progress with a cool score display that adds an extra edge to every game.
